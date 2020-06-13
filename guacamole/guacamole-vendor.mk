@@ -131,5 +131,5 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/lib/vendor.oneplus.camera.CameraMDMHIDL@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.oneplus.camera.CameraMDMHIDL@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/libCameraMDMHelper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libCameraMDMHelper.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0-adapter-helper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0-adapter-helper.so \
-    vendor/oneplus/guacamole/proprietary/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0.so
-
+    vendor/oneplus/guacamole/proprietary/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.oneplus.camera.CameraMDMHIDL@1.0.so \
+    vendor/oneplus/guacamole/proprietary/vendor/lib64/libsnsapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnsapi.so
